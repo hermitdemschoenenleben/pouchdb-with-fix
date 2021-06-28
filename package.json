@@ -1,0 +1,60 @@
+{
+  "_from": "pouchdb-adapter-indexeddb@^7.2.2",
+  "_id": "pouchdb-adapter-indexeddb@7.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-OK/a0MAMEALySy4bIDOQy/qLnBDwPARW7yQKA25CmMObdOdCrca7EUSySZD5gjMDY0u4DUANgb0USlD6Hk9Feg==",
+  "_location": "/pouchdb-adapter-indexeddb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pouchdb-adapter-indexeddb@^7.2.2",
+    "name": "pouchdb-adapter-indexeddb",
+    "escapedName": "pouchdb-adapter-indexeddb",
+    "rawSpec": "^7.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^7.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pouchdb-adapter-indexeddb/-/pouchdb-adapter-indexeddb-7.2.2.tgz",
+  "_shasum": "ffcee0435bb5a9599c8d45de09a5758103e31c61",
+  "_spec": "pouchdb-adapter-indexeddb@^7.2.2",
+  "_where": "/home/ben/blindmate/app",
+  "author": {
+    "name": "Dale Harvey",
+    "email": "dale@arandomurl.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pouchdb/pouchdb/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pouchdb-adapter-utils": "7.2.2",
+    "pouchdb-binary-utils": "7.2.2",
+    "pouchdb-errors": "7.2.2",
+    "pouchdb-md5": "7.2.2",
+    "pouchdb-merge": "7.2.2",
+    "pouchdb-utils": "7.2.2"
+  },
+  "deprecated": false,
+  "description": "PouchDB adapter using IndexedDB as its data store.",
+  "files": [
+    "lib",
+    "dist",
+    "tonic-example.js"
+  ],
+  "homepage": "https://github.com/pouchdb/pouchdb#readme",
+  "jsnext:main": "./lib/index.es.js",
+  "keywords": [],
+  "license": "Apache-2.0",
+  "main": "./lib/index.js",
+  "module": "./lib/index.es.js",
+  "name": "pouchdb-adapter-indexeddb",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouchdb/pouchdb.git"
+  },
+  "version": "7.2.2"
+}
